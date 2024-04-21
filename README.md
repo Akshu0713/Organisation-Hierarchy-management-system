@@ -56,3 +56,15 @@ Setup Instructions:
    cd EmployeeMS
    npm start
    ```
+
+-------------
+## Usage
+
+- Access the application in your browser at `http://localhost:5173`.
+- Log in using your username and password.
+- Depending on your role (normal user or super admin), you will have access to different functionalities.
+
+-------------
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request.
