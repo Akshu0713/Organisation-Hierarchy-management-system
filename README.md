@@ -19,11 +19,11 @@ Technology used :
 -------------
 
 Manager
-id: manager@gmail.com
+id: manager@gmail.com,
 password:12345
 
 Employee
-id: sk67@gmail.com
+id: sk67@gmail.com,
 password: 1111
 
 -------------
