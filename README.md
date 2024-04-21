@@ -59,7 +59,6 @@ Setup Instructions:
 
 -------------
 
-https://drive.google.com/file/d/1_LRylmJootedUFV-97ww5AujFNslf91F/view?usp=drive_link
 
 -------------
 ## Usage
