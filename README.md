@@ -18,6 +18,15 @@ Technology used :
 
 -------------
 
+Manager
+id: manager@gmail.com
+password:12345
+
+Employee
+id: sk67@gmail.com
+password: 1111
+
+-------------
 The different part or module of this project is as follows:
 - Login Page
 - Manager Dashboard
