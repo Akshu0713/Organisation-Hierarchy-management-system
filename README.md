@@ -58,6 +58,10 @@ Setup Instructions:
    ```
 
 -------------
+
+![Uploading Screenshot 2024-04-21 223447.png…]()
+
+-------------
 ## Usage
 
 - Access the application in your browser at `http://localhost:5173`.
