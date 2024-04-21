@@ -33,5 +33,9 @@ Setup Instructions:
    ```bash
    git clone https://github.com/Akshu0713/Organisation-Hierarchy-management-system.git
    ```
-
+2. Install Dependencies:
+   ```bash
+   cd organization-hierarchy-system
+   npm install
+   ```
 
