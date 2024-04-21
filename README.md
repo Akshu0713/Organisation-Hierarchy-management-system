@@ -35,7 +35,15 @@ Setup Instructions:
    ```
 2. Install Dependencies:
    ```bash
-   cd organization-hierarchy-system
+   cd Server
    npm install
    ```
-
+3. Start the Backend Server:
+    ```bash
+   npm start
+   ```
+4. Start the Frontend Development Server:
+    ```bash
+   cd EmployeeMS
+   npm start
+   ```
