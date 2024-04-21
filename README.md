@@ -59,7 +59,7 @@ Setup Instructions:
 
 -------------
 
-![Uploading Screenshot 2024-04-21 223447.png…]()
+https://drive.google.com/file/d/1_LRylmJootedUFV-97ww5AujFNslf91F/view?usp=drive_link
 
 -------------
 ## Usage
